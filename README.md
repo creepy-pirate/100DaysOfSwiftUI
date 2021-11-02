@@ -17,5 +17,4 @@
  - [x] <b>Day 2</b>
 * String interpolation.
 * Constants.
-* Type annotations.
-* Simple types: Summary.
+* Checkpoint 1
