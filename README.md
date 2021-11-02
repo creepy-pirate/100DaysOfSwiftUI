@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-2/100-green.svg)
+![Header](https://img.shields.io/badge/completion-3/100-green.svg)
 
 
 # 100DaysOfSwiftUI
@@ -18,3 +18,11 @@
 * String interpolation.
 * Constants.
 * Checkpoint 1
+
+#
+ - [x] <b>Day 3</b>
+* Arrays
+* Dictionaries
+* Sets
+* Enums
+
