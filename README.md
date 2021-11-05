@@ -26,3 +26,11 @@
 * Sets
 * Enums
 
+
+#
+ - [x] <b>Day 4</b>
+* Type Annotations
+* Checkpoint 2
+
+
+
