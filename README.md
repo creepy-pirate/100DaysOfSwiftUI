@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-5/100-green.svg)
+![Header](https://img.shields.io/badge/completion-6/100-green.svg)
 
 
 # 100DaysOfSwiftUI
@@ -37,6 +37,12 @@
 * If
 * Switch
 * Ternary operator
+
+#
+ - [x] <b>Day 6</b>
+* Loops
+* Summary
+* Checkpoint 3
 
 
 
