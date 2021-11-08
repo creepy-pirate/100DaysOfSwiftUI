@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-7/100-green.svg)
+![Header](https://img.shields.io/badge/completion-8/100-green.svg)
 
 
 # 100DaysOfSwiftUI
@@ -50,5 +50,10 @@
 * parameters
 * return values
 
+#
+ - [x] <b>Day 8</b>
+* default values
+* throwing functions
+* checkpoint 4
 
 
