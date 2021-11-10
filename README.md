@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-9/100-green.svg)
+![Header](https://img.shields.io/badge/completion-10/100-green.svg)
 
 
 # 100DaysOfSwiftUI
@@ -62,5 +62,12 @@
 * closures
 * passing functions into functions
 * checkpoint 5
+
+
+#
+ - [x] <b>Day 10</b>
+* structs
+* computed properties
+* property observers
 
 
