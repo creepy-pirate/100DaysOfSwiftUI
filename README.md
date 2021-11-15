@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-11/100-green.svg)
+![Header](https://img.shields.io/badge/completion-12/100-green.svg)
 
 
 # 100DaysOfSwiftUI
@@ -77,5 +77,12 @@
 * static properties
 * methods
 * checkpoint 6
+
+
+#
+ - [x] <b>Day 12</b>
+* classes
+* inheritance
+* checkpoint 7
 
 
